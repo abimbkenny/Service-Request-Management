@@ -202,9 +202,7 @@ The solution demonstrates how Microsoft technologies can be combined to:
 
 **Business Intelligence:** Power BI, KPI development, data modeling, SLA analytics, drill-through reporting
 
-## Interview Summary
 
-> **Designed and implemented an end-to-end Employee Service Request Management & Analytics Platform using Power Apps, Dataverse, Power Automate, Microsoft Fabric and Power BI. The solution automates service request submission, SLA tracking, manager approvals and status management, while transforming operational data through a Bronze/Silver/Gold architecture for business intelligence and performance reporting.**
 
 ## Technology Tags
 
